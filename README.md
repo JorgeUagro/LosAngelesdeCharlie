@@ -13,4 +13,3 @@ hola
 Hola
 hola
 Hola
-jorge te amo
